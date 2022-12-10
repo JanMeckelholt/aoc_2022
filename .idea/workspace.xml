@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d2119b6-102e-4bf6-ae7b-f311892ff82e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day07/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/part1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/part2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/part1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/part2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/example2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/part1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/part2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/utils.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.work" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/mod/cache/lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +53,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IZmkt0DPzJm92YtkRIIYp0nLMt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -63,8 +72,14 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day09" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoProjectSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day09" />
+      <recent name="$PROJECT_DIR$/day08" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="go build github.com/janmeckelholt/aoc_2022" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -96,6 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
