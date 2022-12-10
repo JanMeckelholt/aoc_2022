@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d2119b6-102e-4bf6-ae7b-f311892ff82e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day08/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/part1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/part2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/utils.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/example2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/part1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/part2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/utils.go" afterDir="false" />
+    <list default="true" id="4d2119b6-102e-4bf6-ae7b-f311892ff82e" name="Changes" comment="day08 and day09 solved">
+      <change afterPath="$PROJECT_DIR$/day10/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/part1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/part2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/utils.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,11 +64,12 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day09" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day10" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoProjectSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day10" />
       <recent name="$PROJECT_DIR$/day09" />
       <recent name="$PROJECT_DIR$/day08" />
     </key>
@@ -114,6 +107,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="day08 and day09 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="day08 and day09 solved" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
