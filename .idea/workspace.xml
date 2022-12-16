@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d2119b6-102e-4bf6-ae7b-f311892ff82e" name="Changes" comment="day13 solved">
-      <change afterPath="$PROJECT_DIR$/day14/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/part1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/part2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/utils.go" afterDir="false" />
+    <list default="true" id="4d2119b6-102e-4bf6-ae7b-f311892ff82e" name="Changes" comment="day14 solved">
+      <change afterPath="$PROJECT_DIR$/day15/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/part1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/part2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/utils.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,16 +64,16 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day15" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoProjectSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day15" />
       <recent name="$PROJECT_DIR$/day14" />
       <recent name="$PROJECT_DIR$/day13" />
       <recent name="$PROJECT_DIR$/day12" />
       <recent name="$PROJECT_DIR$/day11" />
-      <recent name="$PROJECT_DIR$/day10" />
     </key>
   </component>
   <component name="RunManager">
@@ -114,7 +114,8 @@
     <MESSAGE value="day11 solved" />
     <MESSAGE value="day12 solved" />
     <MESSAGE value="day13 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="day13 solved" />
+    <MESSAGE value="day14 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="day14 solved" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
